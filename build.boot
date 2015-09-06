@@ -17,7 +17,7 @@
 (task-options!
   pom {:project     +project+
        :version     +version+
-       :description ""
+       :description "Boot task for reloading and invoking a custom function to transform a fileset"
        :url         "https://github.com/mrmcc3/boot-custom"
        :scm         {:url "https://github.com/mrmcc3/boot-custom"}
        :license     {"Eclipse Public License" "http://www.eclipse.org/legal/epl-v10.html"}})
