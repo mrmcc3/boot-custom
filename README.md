@@ -1,8 +1,12 @@
 # boot-slack 
 
-Boot task for reloading and invoking a custom function to transform a fileset
+Boot task for reloading and invoking a custom function to transform a fileset.
 
 ![Clojars Project](http://clojars.org/mrmcc3/boot-custom/latest-version.svg)
+
+### Why 
+
+Main use case is to build html pages with hiccup.
 
 ### Usage
 
